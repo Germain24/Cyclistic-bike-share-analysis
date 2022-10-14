@@ -15,3 +15,13 @@ You will produce a report with the following deliverables:
 4. A summary of your analysis
 5. Supporting visualizations and key findings
 6. Your top three recommendations based on your analysis
+
+We will folow 2 simple question :
+1. What is the problem you are trying to solve?
+2. How can your insights drive business decisions?
+
+That's why we need to :
+1. Identify the business task
+2. Consider key stakeholders
+
+To finally deliver a clear statement of the business task.
